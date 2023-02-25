@@ -13,7 +13,7 @@ void loop() {
 
   Serial.print("TMP: ");
   Serial.print(t, 1);
-  Serial.println("°C");
+  Serial.println("C");
 
   Serial.print("HMD: ");
   Serial.print(h, 1);
