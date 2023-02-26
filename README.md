@@ -1,3 +1,5 @@
+[![Arduino Lint](https://github.com/sfieger/arduino_weather_station/actions/workflows/arduino_lint.yml/badge.svg?branch=main)](https://github.com/sfieger/arduino_weather_station/actions/workflows/arduino_lint.yml)
+
 # Arduino Weather Station
 Code, schematics and plans for a weather station based on the Arduino Uno.
 
